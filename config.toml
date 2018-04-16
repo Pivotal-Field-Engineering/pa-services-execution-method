@@ -1,0 +1,8 @@
+baseURL = "http://pa-services-method.cfapps.io/"
+languageCode = "en-us"
+title = "PA to Services Method"
+theme = "ananke"
+
+[params]
+    featured_image = "/images/process-postits.png"
+    background_color_class = "bg-mid-gray"
