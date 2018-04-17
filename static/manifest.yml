@@ -3,5 +3,5 @@ applications:
 - name: pa-services-method
   host: pa-services-method
   buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  memory: 512M
+  memory: 256M
   instances: 1

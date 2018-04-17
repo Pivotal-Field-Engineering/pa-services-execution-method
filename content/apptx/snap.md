@@ -26,11 +26,10 @@ Although each development framework and language will have different characteris
 - Native calls
 - Logging and monitoring
 
-Many of these concerns are address in the [12-factor methodology](http://12factor.net).  There are templates that can be used for [Java applications](https://docs.google.com/spreadsheets/d/181G2b2hgjDMNOGmet8YhoM-d17_bp5czfDBURkpN1Xo/edit?usp=sharing) and [.NET applications](https://docs.google.com/spreadsheets/d/1w3F3eYirqGFFsQ39GKCBTtBredByNNyT-EQ2iHjJrWc/edit?usp=sharing); other languages and frameworks should be analyzed against the [12-factor methodology](http://12factor.net).
+Many of these concerns are addressed in the [12-factor methodology](http://12factor.net).  There are templates that can be used for [Java applications](https://docs.google.com/spreadsheets/d/181G2b2hgjDMNOGmet8YhoM-d17_bp5czfDBURkpN1Xo/edit?usp=sharing) and [.NET applications](https://docs.google.com/spreadsheets/d/1w3F3eYirqGFFsQ39GKCBTtBredByNNyT-EQ2iHjJrWc/edit?usp=sharing); other languages and frameworks should be analyzed against the [12-factor methodology](http://12factor.net).
 
 ## Outcome
 A detailed analysis document of each application considered to be a candidate for Application Tranformation.
 
 ---
 < [Previous]({{< ref "portfolio.md" >}}) | [Next]({{< ref "services.md" >}}) >
-
